@@ -32,6 +32,6 @@ pip install -r requirements.txt
 
 
 ## Notebooks
-`1_chroma_template_method.ipynb`: Notebook with initial data exploration, train-test split, and template-based chord identification
-`2_dense_layer.ipynb`: Notebook with dense layer implementation
+- `1_chroma_template_method.ipynb`: Notebook with initial data exploration, train-test split, and template-based chord identification
+- `2_dense_layer.ipynb`: Notebook with dense layer implementation
 
